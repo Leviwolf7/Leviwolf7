@@ -3,7 +3,7 @@
 
 <br>
 
-<h3 align="left">About me:</h3>
+<h3 align="left">🙋‍♂️ About me:</h3>
 
 - 💻 I’m currently learning **Computer Science at Universidad Interamericana de PR**
 
@@ -11,7 +11,7 @@
 
 <hr style="border: solid 2px;">
 
-<h3 align="left">Connect with me:</h3>
+<!--<h3 align="left">Connect with me:</h3>
 
 <p align="left">
   <a href="https://linkedin.com/in/isai-torres-viera-942925262" target="blank" rel="noopener noreferrer">
@@ -25,9 +25,9 @@
   </a>
 </p>
 
-<br>
+<br>-->
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🧰 Languages and Tools:</h3>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="30" style="padding-right: 10px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="30" style="padding-right: 10px;"/>
@@ -37,12 +37,13 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="30" style="padding-right: 10px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="30" style="padding-right: 10px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="30" style="padding-right: 10px;"/>
+<br />
 
 <hr style="border: solid 2px;">
 
 <h3 align="left">📊 Stats</h3>
 
 <p align="center">
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leviwolf7&show_icons=true&locale=en" alt="leviwolf7"/>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leviwolf7&show_icons=true&locale=en&layout=compact" alt="leviwolf7" style="padding-right: 5px;"/>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leviwolf7&show_icons=true&locale=en" alt="leviwolf7" />
 </p>
