@@ -28,7 +28,7 @@
 <hr style="border: solid 2px;">
 
 <div align="center">
-  <iframe src="https://giphy.com/embed/zhYSVCirREeIZtONCI" width="280" height="280" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <img src="https://giphy.com/embed/zhYSVCirREeIZtONCI" width="280" height="280" style="" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 </div>
 
 <h3 align="left">📊 Stats:</h3>
