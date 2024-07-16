@@ -30,7 +30,7 @@
 
 <h3 align="left">📊 Stats:</h3>
 
-<div style="display: flex; flex-direction: row; align-items: center;">
+<div style="display: flex; flex-direction: row; align-items: center;" width="100%">
   <div style="display: flex; flex-direction: column;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leviwolf7&show_icons=true&locale=en&layout=compact" alt="leviwolf7" width="280px"/><br>
     <img src="https://github-readme-stats.vercel.app/api?username=Leviwolf7&show_icons=true&count_private=true&hide_border=true" alt="leviwolf7" width="280px"/>
