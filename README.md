@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <strong>Isai Torres</strong> 🧑‍💻</h1>
-<h3 align="left">🙋‍♂️ Passionate Frontend Developer with a deep love for coding and technology. I thrive on learning new programming languages and exploring the latest trends in the tech world.</h3>
+<h3 align="left">Passionate Frontend Developer with a deep love for coding and technology. I thrive on learning new programming languages and exploring the latest trends in the tech world.</h3>
 
 <br>
 
@@ -26,10 +26,10 @@
 
 <hr style="border: solid 2px;">
 
-<h3 align="left">📊 Stats</h3>
+<h3 align="left">📊 Stats:</h3>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leviwolf7&show_icons=true&locale=en" alt="leviwolf7" style="padding-right: 5px;"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leviwolf7&show_icons=true&locale=en&layout=compact" alt="leviwolf7"/></p>
 
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leviwolf7&show_icons=true&locale=en&layout=compact" alt="leviwolf7"/></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leviwolf7&show_icons=true&locale=en" alt="leviwolf7" style="padding-right: 5px;"/></p>
