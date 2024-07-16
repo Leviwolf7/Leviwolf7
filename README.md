@@ -27,15 +27,17 @@
 <hr style="border: solid 2px;">
 <br>
 
-<img align="center" src="images/gift-coding.webp" width="280" height="280"/>
+<div align="center">
+  <img  src="images/gift-coding.webp" width="250" height="250"/>
+</div>
 <br>
 
 <h3 align="left">📊 Stats:</h3>
 <br>
 
-<table align="center" style="border: none;">
+<table align="center" style="border-collapse: collapse;">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=leviwolf7&show_icons=true&locale=en&layout=compact" alt="leviwolf7" width="380px" heigth="380px"/><td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Leviwolf7&show_icons=true&count_private=true&hide_border=true" alt="leviwolf7" width="380px" heigth="380px"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=leviwolf7&show_icons=true&locale=en&layout=compact" alt="leviwolf7" width="380px" height="380px"/><td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Leviwolf7&show_icons=true&count_private=true&hide_border=true" alt="leviwolf7" width="380px" height="380px"/></td>
   </tr>
 </table>
