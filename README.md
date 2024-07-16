@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isai Torres 🧑‍💻</h1>
 <h3 align="left">Passionate Frontend Developer with a deep love for coding and technology. I thrive on learning new programming languages and exploring the latest trends in the tech world.</h3>
-
 <br>
 
 - 💻 I’m currently learning **Computer Science at Universidad Interamericana de PR**
@@ -28,15 +27,15 @@
 <hr style="border: solid 2px;">
 <br>
 
+<img align="center" src="images/gift-coding.webp" width="280" height="280"/>
+<br>
+
 <h3 align="left">📊 Stats:</h3>
+<br>
 
-
-<table>
+<table align="center" style="border: none;">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=leviwolf7&show_icons=true&locale=en&layout=compact" alt="leviwolf7" width="280px"/><td>
-  </tr>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Leviwolf7&show_icons=true&count_private=true&hide_border=true" alt="leviwolf7" width="280px"/></td>
-    <td><img src="images/gift-coding.webp" width="280" height="280"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=leviwolf7&show_icons=true&locale=en&layout=compact" alt="leviwolf7" width="380px" heigth="380px"/><td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Leviwolf7&show_icons=true&count_private=true&hide_border=true" alt="leviwolf7" width="380px" heigth="380px"/></td>
   </tr>
 </table>
