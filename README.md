@@ -36,9 +36,8 @@
 </div>
 
 <h3 align="left">📊 Stats:</h3>
-<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leviwolf7&show_icons=true&locale=en&layout=compact" alt="leviwolf7" width="380px" height="380px" style="padding-right: 5px;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Leviwolf7&show_icons=true&count_private=true&hide_border=true" alt="leviwolf7" width="380px" height="380px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leviwolf7&show_icons=true&locale=en&layout=compact" alt="stats" width="280px" style="padding-right: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Leviwolf7&show_icons=true&count_private=true&hide_border=true" alt="stats" width="280px" />
 </div>
