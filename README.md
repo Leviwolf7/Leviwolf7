@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <strong>Isai Torres</strong> 🧑‍💻</h1>
+<h1 align="center">Hi 👋, I'm Isai Torres 🧑‍💻</h1>
 <h3 align="left">Passionate Frontend Developer with a deep love for coding and technology. I thrive on learning new programming languages and exploring the latest trends in the tech world.</h3>
 
 <br>
@@ -24,7 +24,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="30" style="padding-right: 10px;"/>
 </p>
 
+
 <hr style="border: solid 2px;">
+
+<div align="center">
+  <iframe src="https://giphy.com/embed/zhYSVCirREeIZtONCI" width="280" height="280" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
 
 <h3 align="left">📊 Stats:</h3>
 
