@@ -28,7 +28,8 @@
 
 <h3 align="left">📊 Stats</h3>
 
-<p align="left">
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leviwolf7&show_icons=true&locale=en" alt="leviwolf7" style="padding-right: 5px;"/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leviwolf7&show_icons=true&locale=en&layout=compact" alt="leviwolf7" />
-</p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leviwolf7&show_icons=true&locale=en" alt="leviwolf7" style="padding-right: 5px;"/></p>
+
+<br>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leviwolf7&show_icons=true&locale=en&layout=compact" alt="leviwolf7"/></p>
