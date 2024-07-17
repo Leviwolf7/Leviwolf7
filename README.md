@@ -38,6 +38,6 @@
 <h3 align="left">📊 Stats:</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leviwolf7&show_icons=true&locale=en&layout=compact" alt="stats" width="350px" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Leviwolf7&show_icons=true&count_private=true&hide_border=true" alt="stats" width="350px" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leviwolf7&show_icons=true&locale=en&layout=compact&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=condorcoders&include_all_commits=true&count_private=true&show_icons=true&theme=dark"/>
 </div>
